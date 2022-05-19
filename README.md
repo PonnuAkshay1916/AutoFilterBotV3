@@ -17,7 +17,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PonnuAkshay1916/AutoFilterBotV3/edit/master/README.md)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PonnuAkshay1916/AutoFilterBotV3/</br>
 https://github.com/DalinMathew/AutoFilterBotV3)
 
 #### Hard Way
